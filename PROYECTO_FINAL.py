@@ -1,3 +1,5 @@
+# ESTO ES SOLO UNA PRUEBA
+
 from PyQt6.QtWidgets import QApplication, QCheckBox, QFrame,QMainWindow, QWidget, QVBoxLayout, QGridLayout, QPushButton, QLineEdit, QLabel, QHBoxLayout, QComboBox, QTableWidget , QTableWidgetItem
 from PyQt6.QtGui import QFont
 from PyQt6.QtCore import Qt
